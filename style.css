@@ -1,0 +1,16 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    color: rgba(102, 199, 150, 0.98);
+    background-color: lightblue;
+}
+
+.friend {
+    background-color:rebeccapurple;
+}
+
+h3 {
+     text-transform: uppercase;
+ }
